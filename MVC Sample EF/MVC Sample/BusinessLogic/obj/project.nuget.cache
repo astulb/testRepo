@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "J+Ku9ZZvgBDbu7g8lzWAXm4yhp3ta0jOOulG5aEqLn1z6DO8DjwfBbYamUsUmY2ujTDnZLDmKV896SF/8L8DJQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Emergency\\Desktop\\Proyectos\\MVC Sample EF\\MVC Sample\\BusinessLogic\\BusinessLogic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Emergency\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Emergency\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

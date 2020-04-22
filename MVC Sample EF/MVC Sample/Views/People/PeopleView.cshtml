@@ -1,0 +1,73 @@
+﻿@model MVC_Sample.Models.PeopleViewModel
+@{
+    ViewBag.Title = "Personas";
+}
+
+<div class="jumbotron">
+    <h3>ASP.NET MVC </h3>
+    <p class="lead">This is a test of asp.net mvc</p>
+</div>
+
+<div id="page-wrapper">
+    <div class="page-heading">
+        <div class="col-md-12">
+            <h4>People</h4>
+        </div>
+    </div>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-12">
+                <button type="button" class="btn btn-primary pull-right" onclick="location.href='@Url.Action("Create", "People")'">New Person</button>
+            </div>
+        </div>
+
+        <table class="table">
+            <tr>
+                <th>Id</th>
+                <th>
+                    Name
+                </th>
+                <th>
+                    LastName
+                </th>
+                <th>
+                    Email
+                </th>
+                <th>
+                    Phone
+                </th>
+            </tr>
+
+            @for (int i = 0; (Model != null && i < Model.Persons.Count); i++)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => Model.Persons[i].Id)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => Model.Persons[i].Name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => Model.Persons[i].LastName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => Model.Persons[i].Email)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => Model.Persons[i].Phone)
+                    </td>
+                    <td>
+                        @Html.ActionLink("Edit", "Edit", new { id = Model.Persons[i].Id }) |
+                        @Html.ActionLink("Delete", "Delete", new { id = Model.Persons[i].Id }) |
+                        @Html.ActionLink("Asign Partner", "AddPartner", new { id = Model.Persons[i].Id }) |
+                        @Html.ActionLink("Add Pet", "AddPet", new { id = Model.Persons[i].Id }) |
+                        @Html.ActionLink("Add Friend", "AddFriend", new { id = Model.Persons[i].Id })
+
+                    </td>
+                </tr>
+            }
+
+        </table>
+    </div>
+    <!-- /.container-fluid -->
+</div>

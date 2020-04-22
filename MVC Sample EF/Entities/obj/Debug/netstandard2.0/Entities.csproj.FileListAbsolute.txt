@@ -1,0 +1,27 @@
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\Entities\bin\Debug\netstandard2.0\Entities.deps.json
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\Entities\bin\Debug\netstandard2.0\Entities.dll
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\Entities\bin\Debug\netstandard2.0\Entities.pdb
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\Entities\obj\Debug\netstandard2.0\Entities.csprojAssemblyReference.cache
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\Entities\obj\Debug\netstandard2.0\Entities.csproj.CoreCompileInputs.cache
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\Entities\obj\Debug\netstandard2.0\Entities.dll
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\Entities\obj\Debug\netstandard2.0\Entities.pdb
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\Entities\bin\Debug\netstandard2.0\Entities.deps.json
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\Entities\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\Entities\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\Entities\obj\Debug\netstandard2.0\Entities.csprojAssemblyReference.cache
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\Entities\obj\Debug\netstandard2.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\Entities\obj\Debug\netstandard2.0\Entities.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\Entities\obj\Debug\netstandard2.0\Entities.pdb
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\Entities\bin\Debug\netstandard2.0\Entities.deps.json
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\Entities\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\Entities\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\Entities\obj\Debug\netstandard2.0\Entities.csprojAssemblyReference.cache
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\Entities\obj\Debug\netstandard2.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\Entities\obj\Debug\netstandard2.0\Entities.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\Entities\obj\Debug\netstandard2.0\Entities.pdb

@@ -1,0 +1,47 @@
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\BusinessLogic\bin\Debug\netstandard2.0\BusinessLogic.deps.json
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\BusinessLogic\bin\Debug\netstandard2.0\BusinessLogic.dll
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\BusinessLogic\bin\Debug\netstandard2.0\BusinessLogic.pdb
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.csprojAssemblyReference.cache
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.AssemblyInfoInputs.cache
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.AssemblyInfo.cs
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.dll
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.pdb
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\BusinessLogic\bin\Debug\netstandard2.0\Entities.dll
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\BusinessLogic\bin\Debug\netstandard2.0\Entities.pdb
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.csproj.CopyComplete
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\BusinessLogic\bin\Debug\netstandard2.0\BusinessLogic.deps.json
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\BusinessLogic\bin\Debug\netstandard2.0\BusinessLogic.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\BusinessLogic\bin\Debug\netstandard2.0\BusinessLogic.pdb
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\BusinessLogic\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\BusinessLogic\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\BusinessLogic\bin\Debug\netstandard2.0\System.Configuration.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\BusinessLogic\bin\Debug\netstandard2.0\System.Security.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\BusinessLogic\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\BusinessLogic\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\BusinessLogic\bin\Debug\netstandard2.0\System.Configuration.xml
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\BusinessLogic\bin\Debug\netstandard2.0\System.Security.xml
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.csprojAssemblyReference.cache
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.AssemblyInfo.cs
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.csproj.CopyComplete
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.pdb
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\BusinessLogic\bin\Debug\netstandard2.0\BusinessLogic.deps.json
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\BusinessLogic\bin\Debug\netstandard2.0\BusinessLogic.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\BusinessLogic\bin\Debug\netstandard2.0\BusinessLogic.pdb
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\BusinessLogic\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\BusinessLogic\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.csprojAssemblyReference.cache
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.AssemblyInfo.cs
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.csproj.CopyComplete
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\BusinessLogic\obj\Debug\netstandard2.0\BusinessLogic.pdb
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\BusinessLogic\bin\Debug\netstandard2.0\DataAccessNetF.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\BusinessLogic\bin\Debug\netstandard2.0\EntityFramework.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\BusinessLogic\bin\Debug\netstandard2.0\DataAccessNetF.pdb
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\BusinessLogic\bin\Debug\netstandard2.0\DataAccessNetF.dll.config
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\BusinessLogic\bin\Debug\netstandard2.0\EntityFramework.xml

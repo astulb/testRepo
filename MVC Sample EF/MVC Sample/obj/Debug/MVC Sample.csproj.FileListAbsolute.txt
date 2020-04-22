@@ -1,0 +1,303 @@
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\MVC Sample\bin\MVC Sample.dll.config
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\MVC Sample\bin\MVC Sample.dll
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\MVC Sample\bin\MVC Sample.pdb
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\MVC Sample\bin\roslyn\csc.exe
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\MVC Sample\bin\roslyn\csc.exe.config
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\MVC Sample\bin\roslyn\csc.rsp
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\MVC Sample\bin\roslyn\csi.exe
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\MVC Sample\bin\roslyn\csi.exe.config
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\MVC Sample\bin\roslyn\csi.rsp
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\MVC Sample\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\MVC Sample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\MVC Sample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\MVC Sample\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\MVC Sample\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\MVC Sample\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\MVC Sample\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\MVC Sample\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\MVC Sample\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\MVC Sample\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\MVC Sample\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\MVC Sample\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\MVC Sample\bin\roslyn\System.AppContext.dll
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\MVC Sample\bin\roslyn\System.Collections.Immutable.dll
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\MVC Sample\bin\roslyn\System.Console.dll
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\MVC Sample\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\MVC Sample\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\MVC Sample\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\MVC Sample\bin\roslyn\System.Globalization.Calendars.dll
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\MVC Sample\bin\roslyn\System.IO.Compression.dll
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\MVC Sample\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\MVC Sample\bin\roslyn\System.IO.FileSystem.dll
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\MVC Sample\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\MVC Sample\bin\roslyn\System.Net.Http.dll
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\MVC Sample\bin\roslyn\System.Net.Sockets.dll
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\MVC Sample\bin\roslyn\System.Reflection.Metadata.dll
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\MVC Sample\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\MVC Sample\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\MVC Sample\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\MVC Sample\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\MVC Sample\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\MVC Sample\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\MVC Sample\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\MVC Sample\bin\roslyn\System.ValueTuple.dll
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\MVC Sample\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\MVC Sample\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\MVC Sample\bin\roslyn\System.Xml.XPath.dll
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\MVC Sample\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\MVC Sample\bin\roslyn\vbc.exe
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\MVC Sample\bin\roslyn\vbc.exe.config
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\MVC Sample\bin\roslyn\vbc.rsp
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\MVC Sample\bin\roslyn\VBCSCompiler.exe
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\MVC Sample\bin\roslyn\VBCSCompiler.exe.config
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\MVC Sample\bin\Antlr3.Runtime.dll
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\MVC Sample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\MVC Sample\bin\Microsoft.Web.Infrastructure.dll
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\MVC Sample\bin\Newtonsoft.Json.dll
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\MVC Sample\bin\System.Web.Helpers.dll
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\MVC Sample\bin\System.Web.Mvc.dll
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\MVC Sample\bin\System.Web.Optimization.dll
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\MVC Sample\bin\System.Web.Razor.dll
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\MVC Sample\bin\System.Web.WebPages.Deployment.dll
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\MVC Sample\bin\System.Web.WebPages.dll
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\MVC Sample\bin\System.Web.WebPages.Razor.dll
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\MVC Sample\bin\WebGrease.dll
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\MVC Sample\bin\System.Web.Helpers.xml
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\MVC Sample\bin\System.Web.Mvc.xml
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\MVC Sample\bin\System.Web.Optimization.xml
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\MVC Sample\bin\System.Web.Razor.xml
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\MVC Sample\bin\System.Web.WebPages.xml
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\MVC Sample\bin\System.Web.WebPages.Deployment.xml
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\MVC Sample\bin\System.Web.WebPages.Razor.xml
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\MVC Sample\bin\Newtonsoft.Json.xml
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\MVC Sample\bin\Antlr3.Runtime.pdb
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\MVC Sample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\MVC Sample\obj\Debug\MVC Sample.csprojAssemblyReference.cache
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\MVC Sample\obj\Debug\MVC Sample.csproj.CoreCompileInputs.cache
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\MVC Sample\obj\Debug\MVC Sample.csproj.CopyComplete
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\MVC Sample\obj\Debug\MVC Sample.dll
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\MVC Sample\obj\Debug\MVC Sample.pdb
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\MVC Sample\bin\Entities.dll
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\MVC Sample\bin\Entities.pdb
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\MVC Sample\bin\BusinessLogic.dll
+C:\Bootcamp .Net\3- MVC\Code\MVC Sample\MVC Sample\bin\BusinessLogic.pdb
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\MVC Sample\bin\MVC Sample.dll.config
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\MVC Sample\bin\MVC Sample.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\MVC Sample\bin\MVC Sample.pdb
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\MVC Sample\bin\roslyn\csc.exe
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\MVC Sample\bin\roslyn\csc.exe.config
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\MVC Sample\bin\roslyn\csc.rsp
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\MVC Sample\bin\roslyn\csi.exe
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\MVC Sample\bin\roslyn\csi.exe.config
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\MVC Sample\bin\roslyn\csi.rsp
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\MVC Sample\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\MVC Sample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\MVC Sample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\MVC Sample\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\MVC Sample\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\MVC Sample\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\MVC Sample\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\MVC Sample\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\MVC Sample\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\MVC Sample\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\MVC Sample\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\MVC Sample\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\MVC Sample\bin\roslyn\System.AppContext.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\MVC Sample\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\MVC Sample\bin\roslyn\System.Console.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\MVC Sample\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\MVC Sample\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\MVC Sample\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\MVC Sample\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\MVC Sample\bin\roslyn\System.IO.Compression.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\MVC Sample\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\MVC Sample\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\MVC Sample\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\MVC Sample\bin\roslyn\System.Net.Http.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\MVC Sample\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\MVC Sample\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\MVC Sample\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\MVC Sample\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\MVC Sample\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\MVC Sample\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\MVC Sample\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\MVC Sample\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\MVC Sample\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\MVC Sample\bin\roslyn\System.ValueTuple.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\MVC Sample\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\MVC Sample\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\MVC Sample\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\MVC Sample\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\MVC Sample\bin\roslyn\vbc.exe
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\MVC Sample\bin\roslyn\vbc.exe.config
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\MVC Sample\bin\roslyn\vbc.rsp
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\MVC Sample\bin\roslyn\VBCSCompiler.exe
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\MVC Sample\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\MVC Sample\bin\Antlr3.Runtime.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\MVC Sample\bin\BusinessLogic.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\MVC Sample\bin\Entities.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\MVC Sample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\MVC Sample\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\MVC Sample\bin\Newtonsoft.Json.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\MVC Sample\bin\System.Web.Helpers.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\MVC Sample\bin\System.Web.Mvc.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\MVC Sample\bin\System.Web.Optimization.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\MVC Sample\bin\System.Web.Razor.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\MVC Sample\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\MVC Sample\bin\System.Web.WebPages.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\MVC Sample\bin\System.Web.WebPages.Razor.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\MVC Sample\bin\WebGrease.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\MVC Sample\bin\DataAccess.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\MVC Sample\bin\BusinessLogic.pdb
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\MVC Sample\bin\Entities.pdb
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\MVC Sample\bin\System.Web.Helpers.xml
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\MVC Sample\bin\System.Web.Mvc.xml
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\MVC Sample\bin\System.Web.Optimization.xml
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\MVC Sample\bin\System.Web.Razor.xml
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\MVC Sample\bin\System.Web.WebPages.xml
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\MVC Sample\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\MVC Sample\bin\System.Web.WebPages.Razor.xml
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\MVC Sample\bin\Newtonsoft.Json.xml
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\MVC Sample\bin\Antlr3.Runtime.pdb
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\MVC Sample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\MVC Sample\bin\DataAccess.pdb
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\MVC Sample\obj\Debug\MVC Sample.csprojAssemblyReference.cache
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\MVC Sample\obj\Debug\MVC Sample.csproj.CoreCompileInputs.cache
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\MVC Sample\obj\Debug\MVC Sample.csproj.CopyComplete
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\MVC Sample\obj\Debug\MVC Sample.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\MVC Sample\obj\Debug\MVC Sample.pdb
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\MVC Sample\bin\System.Data.SqlClient.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\MVC Sample\bin\System.Data.SqlClient.xml
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\MVC Sample.dll.config
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\MVC Sample.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\MVC Sample.pdb
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\roslyn\csc.exe
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\roslyn\csc.exe.config
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\roslyn\csc.rsp
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\roslyn\csi.exe
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\roslyn\csi.exe.config
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\roslyn\csi.rsp
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\roslyn\System.AppContext.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\roslyn\System.Console.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\roslyn\System.IO.Compression.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\roslyn\System.Net.Http.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\roslyn\System.ValueTuple.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\roslyn\vbc.exe
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\roslyn\vbc.exe.config
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\roslyn\vbc.rsp
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\roslyn\VBCSCompiler.exe
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\Antlr3.Runtime.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\BusinessLogic.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\Entities.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\Newtonsoft.Json.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\System.Data.SqlClient.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\System.Web.Helpers.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\System.Web.Mvc.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\System.Web.Optimization.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\System.Web.Razor.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\System.Web.WebPages.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\System.Web.WebPages.Razor.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\WebGrease.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\BusinessLogic.pdb
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\Entities.pdb
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\System.Data.SqlClient.xml
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\System.Web.Helpers.xml
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\System.Web.Mvc.xml
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\System.Web.Optimization.xml
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\System.Web.Razor.xml
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\System.Web.WebPages.xml
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\System.Web.WebPages.Razor.xml
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\Newtonsoft.Json.xml
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\Antlr3.Runtime.pdb
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\obj\Debug\MVC Sample.csprojAssemblyReference.cache
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\obj\Debug\MVC Sample.csproj.CoreCompileInputs.cache
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\obj\Debug\MVC Sample.csproj.CopyComplete
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\obj\Debug\MVC Sample.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\obj\Debug\MVC Sample.pdb
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\Microsoft.Extensions.Logging.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\Microsoft.Extensions.Options.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\System.Buffers.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\System.Collections.Immutable.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\System.ComponentModel.Annotations.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\System.Memory.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\System.Numerics.Vectors.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\Microsoft.Extensions.Logging.xml
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\Microsoft.Extensions.Options.xml
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\System.Buffers.xml
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\System.Collections.Immutable.xml
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\System.Memory.xml
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\System.Numerics.Vectors.xml
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\EntityFramework.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\EntityFramework.xml
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\DataAccessNetF.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\DataAccessNetF.pdb
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\DataAccessNetF.dll.config
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\EntityFramework.SqlServer.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\MVC Sample\bin\EntityFramework.SqlServer.xml

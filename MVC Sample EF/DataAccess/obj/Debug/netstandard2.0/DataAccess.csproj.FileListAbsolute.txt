@@ -1,0 +1,32 @@
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\DataAccess\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\DataAccess\bin\Debug\netstandard2.0\System.Configuration.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\DataAccess\bin\Debug\netstandard2.0\System.Security.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\DataAccess\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\DataAccess\bin\Debug\netstandard2.0\System.Configuration.xml
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\DataAccess\bin\Debug\netstandard2.0\System.Security.xml
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\DataAccess\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\DataAccess\bin\Debug\netstandard2.0\System.Configuration.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\DataAccess\bin\Debug\netstandard2.0\System.Security.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\DataAccess\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\DataAccess\bin\Debug\netstandard2.0\System.Configuration.xml
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\DataAccess\bin\Debug\netstandard2.0\System.Security.xml
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache

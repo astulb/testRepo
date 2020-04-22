@@ -1,0 +1,14 @@
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\DataAccessNetF\bin\Debug\DataAccessNetF.dll.config
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\DataAccessNetF\bin\Debug\DataAccessNetF.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\DataAccessNetF\bin\Debug\DataAccessNetF.pdb
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\DataAccessNetF\bin\Debug\Entities.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\DataAccessNetF\bin\Debug\EntityFramework.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\DataAccessNetF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\DataAccessNetF\bin\Debug\Entities.pdb
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\DataAccessNetF\bin\Debug\EntityFramework.xml
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\DataAccessNetF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\DataAccessNetF\obj\Debug\DataAccessNetF.csprojAssemblyReference.cache
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\DataAccessNetF\obj\Debug\DataAccessNetF.csproj.CoreCompileInputs.cache
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\DataAccessNetF\obj\Debug\DataAccessNetF.csproj.CopyComplete
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\DataAccessNetF\obj\Debug\DataAccessNetF.dll
+C:\Users\Emergency\Desktop\Proyectos\MVC Sample EF\DataAccessNetF\obj\Debug\DataAccessNetF.pdb

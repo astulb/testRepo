@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "CBtg9ZhCOG8xOJcSbEeRHMtwhKEIi7gHo1cQ32AeE1btznzE+6xUB//He1Htm0UxXDHN1hljibxlE7k83PFwMQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Emergency\\Desktop\\Proyectos\\MVC Sample EF\\Entities\\Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Emergency\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Emergency\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
